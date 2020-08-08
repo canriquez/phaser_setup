@@ -1,6 +1,6 @@
-# Vanilla JavaScript Template
+# Phaser Webpack Init Repo
 
-Generic Simple Vanilla JavaScript template
+Generic Simple Phaser Webpack Repo Configuration
 
 # Project Details
  
@@ -9,12 +9,14 @@ Includes basic configuration for
 - ESlint, Stylelint
 - Github linters
 - JS/HTML/CSS 
+- Phaser
 - Basic source fonts: open source Futura (./src/fonts/futura)
 
 ## Built With
 
 - HTML/CSS, Javascript, Webpack, NPM, yarn.
 - ESlint, Stylelint
+- Phaser
 - VSCode
 
 
@@ -35,6 +37,7 @@ To get a local copy up and running, follow these simple example steps.
 - Next step is to CD into the local repository and run:
 
 ``` $ npm install ```
+``` $ yarn build ```
 
 
 
